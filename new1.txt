@@ -1,2 +1,3 @@
 Hey! this is new file.
 I am in branch newBranch.
+This new branch has forked and it is ok.
